@@ -1,6 +1,6 @@
-# Aether UI – React Component Library Starter
+# React Component Library Starter
 
-Aether UI is a modern starter template to build your own React UI component library using:
+React Component Library Starter is a modern starter template for creating your own React UI component library, rather than a standalone published library itself. It provides a preconfigured foundation built with:
 
 - **TailwindCSS v4**
 - **React 19**
@@ -35,10 +35,10 @@ vite.config.ts          # Vite configuration
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/iashutoshtiwari/aether-ui.git
+git clone https://github.com/iashutoshtiwari/react-component-library-starter.git
 
 # 2. Install dependencies
-cd aether-ui
+cd react-component-library-starter
 npm install  # or yarn / pnpm
 
 # 3. Start the dev server
